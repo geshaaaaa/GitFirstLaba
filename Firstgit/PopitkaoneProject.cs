@@ -8,4 +8,7 @@ namespace Firstry
         {
 
             Console.WriteLine("Git");
-   } } }
+            Console.WriteLine("First commit for Git :)");
+
+        }
+    } }
