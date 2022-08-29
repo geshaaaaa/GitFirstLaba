@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firstgit", "Firstgit\Firstgit.csproj", "{3E705F3F-D9E8-4598-9E77-0FA22C49FC59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firstgit", "Firstgit\Firstgit.csproj", "{3E705F3F-D9E8-4598-9E77-0FA22C49FC59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{3C2FFA5B-E5AE-42DD-BDF3-31BB146D7DA5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Deleteme.txt = Deleteme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
